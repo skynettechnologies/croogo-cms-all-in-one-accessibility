@@ -1,0 +1,21 @@
+{
+    "name": "Allinoneaccessibility",
+    "description": "Enhance Your Website's Accessibility with All in One Accessibility®",
+    "require": {
+        "croogo/core": "^4.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Skynet Technologies USA LLC",
+            "email": "hello@skynettechnologies.com"
+        }
+    ],
+    "type": "cakephp-plugin",
+    "autoload": {
+        "psr-4": {
+            "Croogo\\Allinoneaccessibility\\": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
