@@ -1,5 +1,5 @@
 {
-    "name": "skynettechnologies/allinoneaccessibility",
+    "name": "skynettechnologies/croogo-allinoneaccessibility",
     "description": "Enhance Your Website's Accessibility with All in One Accessibility®",
     "require": {
         "croogo/core": "^4.0"
